@@ -1,0 +1,16 @@
+[package]
+name    = "domain-mode"
+version = "0.1.0"
+edition = "2021"
+description = "Sorabbyngo OS domain mode manager"
+
+[[bin]]
+name = "domain-mode"
+path = "src/main.rs"
+
+[dependencies]
+serde      = { version = "1", features = ["derive"] }
+serde_json = "1"
+nix        = { version = "0.27", features = ["process"] }
+log        = "0.4"
+env_logger = "0.11"
