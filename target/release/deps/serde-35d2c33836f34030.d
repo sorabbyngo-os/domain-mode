@@ -1,0 +1,14 @@
+/home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/deps/serde-35d2c33836f34030.d: /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/build/serde-1ddf8bfdf8757bba/out/private.rs
+
+/home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/deps/libserde-35d2c33836f34030.rlib: /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/build/serde-1ddf8bfdf8757bba/out/private.rs
+
+/home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/deps/libserde-35d2c33836f34030.rmeta: /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/build/serde-1ddf8bfdf8757bba/out/private.rs
+
+/home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/sorabbyngo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/build/serde-1ddf8bfdf8757bba/out/private.rs:
+
+# env-dep:OUT_DIR=/home/sorabbyngo/sorabbyngo-new/domain-mode/target/release/build/serde-1ddf8bfdf8757bba/out

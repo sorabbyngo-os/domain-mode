@@ -278,7 +278,7 @@ fn main() -> io::Result<()> {
             std::thread::sleep(Duration::from_secs(60));
             // In production: iterate all tracked pids and prune
             audit.write("expiry-reaper: tick");
-            let _ = store.lock();
+            let _guard = store.lock().unwrap(); drop(_guard);
         });
     }
 
